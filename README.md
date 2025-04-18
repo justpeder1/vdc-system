@@ -27,6 +27,10 @@ The system can detect the following vehicle types:
 - Motorcycles
 - Bicycles
 
+![Image](https://github.com/user-attachments/assets/2b4dcf9c-b78d-42ec-a59b-06f0e82cfa2b)
+![Image](https://github.com/user-attachments/assets/721d37a3-3c8b-45ed-9939-3863674d243d)
+![Image](https://github.com/user-attachments/assets/5a8fb20c-7fae-4422-8104-c9d236bb76de)
+
 ## 🛠️ Technical Details
 
 - Built with Flask web framework
